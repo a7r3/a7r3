@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![me!](me.jpg)
+![me!](https://raw.githubusercontent.com/a7r3/a7r3/master/me.jpg)
 
 I'm Arvindraj Thangaraj, an Android & Linux Enthusiast!
 
