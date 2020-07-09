@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="me.jpg" width="200">
+
 I'm Arvindraj Thangaraj, an Android & Linux Enthusiast!
 
 - 🔭 I’m currently working on [LockIt](https://github.com/a7r3/LockIt), [InstaReplica](https://github.com/a7r3/InstaReplica)
