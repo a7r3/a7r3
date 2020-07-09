@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="me.jpg" width="200">
+![me!](me.jpg)
 
 I'm Arvindraj Thangaraj, an Android & Linux Enthusiast!
 
