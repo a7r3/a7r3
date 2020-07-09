@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ohai there peeps! 👋
 
 ![me!](https://raw.githubusercontent.com/a7r3/a7r3/master/me.jpg)
 
