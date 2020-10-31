@@ -4,8 +4,8 @@
 
 I'm Arvindraj Thangaraj, an Android & Linux Enthusiast!
 
-- 🔭 I’m currently working on [LockIt](https://github.com/a7r3/LockIt), [InstaReplica](https://github.com/a7r3/InstaReplica)
-- 🌱 I’m currently learning Android, Flutter, Kotlin
+- 🔭 I’m currently working full-time, and taking up personal/freelance projects!
+- 🌱 I’m currently learning Flutter, C# (.NET)
 - 👯 I’m looking to collaborate on anything Android or Shell Scripting!
 - 💬 Ask me about Android Apps, Shell Scripting!
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/arvindraj-thangaraj), [Telegram](https://t.me/I_Iz_N00b), [Twitter](https://twitter.com/no_0blife)
